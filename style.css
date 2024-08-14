@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.con{
+    margin-top: 3rem;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: aqua;
+}
+.btn{
+    font-size: 20px;
+    height: 4rem;
+    width: 3.5rem;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#equal{
+    width: 7.8rem;
+}
+
+#input{
+    height: 5rem;
+    width: 16.3rem;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+#input{
+    font-size: 1.5rem;
+    /* padding-left: 10px; */
+}
